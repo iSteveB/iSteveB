@@ -12,13 +12,17 @@ Reach me out if you have something to share 😊
 
     I think I'm gonna change the display of all of my projects to bring more clarity and explanation for each one of them. I also need to refactor some pieces of code.
     
-  - ### Travel agency:
+  - ### ManyScan:
 
-    I'm also working, with some fellows, on a web site for a travel agency. In discussion for the moment.
+    I'm also working, with some fellows, on a web site for scantrad. Using **Next.js, TypeScript, MongoDB & Prisma**. The v1.0 will be online soon.
+
+  - ### Photographer Portfolio:
+
+     Last, I'm building a portfolio for a photographer with **Next.js, TypeScript and Sanity** as HCMS.
 
 ## 🌱 I’m currently learning ...
 
-  Docker & PostgreSQL
+  PostgreSQL
 
 ## 💬 Ask me about ...
 
