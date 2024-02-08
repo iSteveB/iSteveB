@@ -1,15 +1,15 @@
 # Hi there 👋
+  <a href="https://app.daily.dev/isteveb"><img align="right" src="https://github.com/isteveb/isteveb/blob/main/devcard.svg" width="400" alt="Steve's Dev Card"/></a>
 Welcome in !
 
 I'm **Steve** and I am a **web developper** 🤓
 
-I'm looking for an opportunity, maybe in your company, as web developper.        
-
-<a href="https://app.daily.dev/isteveb"><img src="https://github.com/isteveb/isteveb/blob/main/devcard.svg" width="400" alt="Steve's Dev Card"/></a>
+I'm looking for an opportunity, maybe in your company, as web developper.
 
 Reach me out if you have something to share 😊
 
 ## 🔭 I’m currently working on ...
+
   - ### My Portfolio:
 
     I think I'm gonna change the display of all of my projects to bring more clarity and explanation for each one of them. I also need to refactor some pieces of code.
@@ -24,7 +24,7 @@ Reach me out if you have something to share 😊
 
 ## 🌱 I’m currently learning ...
 
-  PostgreSQL
+  PostgreSQL & React Native
 
 ## 💬 Ask me about ...
 
