@@ -3,7 +3,7 @@ Welcome in !
 
 I'm **Steve** and I am a **web developper** 🤓
 
-I'm looking for an opportunity, maybe in your company, as web developper. 
+I'm looking for an opportunity, maybe in your company, as web developper.                                 <a href="https://app.daily.dev/isteveb"><img src="https://github.com/iSteveB/iSteveB/blob/master/devcard.svg" width="400" alt="Steve's Dev Card"/></a>
 
 Reach me out if you have something to share 😊
 
