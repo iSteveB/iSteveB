@@ -12,15 +12,15 @@ Reach me out if you have something to share 😊
 
   - ### My Portfolio:
 
-    I think I'm gonna change the display of all of my projects to bring more clarity and explanation for each one of them. I also need to refactor some pieces of code.
+    I'm working on a v2 of my portfolio. I want to do better UI/UX with animation and a better presentation for my differents projects.
     
-  - ### ManyScan:
+  - ### Weather Application :
 
-    I'm also working, with some fellows, on a web site for scantrad. Using **Next.js, TypeScript, MongoDB & Prisma**. The v1.0 will be online soon.
+     I'm building a weather app for a learn and practice with **React Native**.
 
-  - ### Photographer Portfolio:
+## Last ended project ...
 
-     Last, I'm building a portfolio for a photographer with **Next.js, TypeScript and Sanity** as HCMS.
+ ALStudio: [Watch Live](https://www.alstudiophotos.com/ "alstudiophotos.com") or [See on GitHub](https://github.com/iSteveB/alstudio "github.com/iSteveB/alstudio")
 
 ## 🌱 I’m currently learning ...
 
@@ -32,10 +32,8 @@ My Motivation, my hobbies or anything you want !
 
 ## 📫 How to reach me: ...
 
-You can contact my through [my web site](https://stevebasse.fr "stevebasse.fr"),
+You can contact my through [my personal website](https://stevebasse.fr "stevebasse.fr"),
 
 Or on [LinkedIn](https://www.linkedin.com/in/steve-basse/ "LinkedIn Steve Basse")
 
-See ya !
-
-
+See ya !💫
