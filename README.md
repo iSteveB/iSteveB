@@ -16,7 +16,7 @@ Reach me out if you have something to share 😊
     
   - ### Weather Application :
 
-     I'm building a weather app for a learn and practice with **React Native**.
+     I'm building a weather app to learn and practice **React Native**.
 
 ## Last ended project ...
 
