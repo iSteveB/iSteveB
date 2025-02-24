@@ -24,7 +24,7 @@ Reach me out if you have something to share 😊
 
 ## 🌱 I’m currently learning ...
 
-  PostgreSQL & React Native
+  Three.js !
 
 ## 💬 Ask me about ...
 
@@ -32,8 +32,8 @@ My Motivation, my hobbies or anything you want !
 
 ## 📫 How to reach me: ...
 
-You can contact my through [my personal website](https://stevebasse.fr "stevebasse.fr"),
+You can contact me through [my personal website](https://stevebasse.fr "stevebasse.fr"),
 
-Or on [LinkedIn](https://www.linkedin.com/in/steve-basse/ "LinkedIn Steve Basse")
+Or reach me on [LinkedIn](https://www.linkedin.com/in/steve-basse/ "LinkedIn Steve Basse")
 
 See ya !💫
